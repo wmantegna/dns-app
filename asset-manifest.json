@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dns-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/dns-app/static/js/main.287fb326.chunk.js",
+    "main.js.map": "/dns-app/static/js/main.287fb326.chunk.js.map",
+    "runtime-main.js": "/dns-app/static/js/runtime-main.61ac37c0.js",
+    "runtime-main.js.map": "/dns-app/static/js/runtime-main.61ac37c0.js.map",
+    "static/js/2.367412c9.chunk.js": "/dns-app/static/js/2.367412c9.chunk.js",
+    "static/js/2.367412c9.chunk.js.map": "/dns-app/static/js/2.367412c9.chunk.js.map",
+    "static/js/3.86d8f04e.chunk.js": "/dns-app/static/js/3.86d8f04e.chunk.js",
+    "static/js/3.86d8f04e.chunk.js.map": "/dns-app/static/js/3.86d8f04e.chunk.js.map",
+    "index.html": "/dns-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dns-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.367412c9.chunk.js.LICENSE.txt": "/dns-app/static/js/2.367412c9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dns-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ac37c0.js",
+    "static/js/2.367412c9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.287fb326.chunk.js"
+  ]
+}
